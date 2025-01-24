@@ -21,7 +21,7 @@
 
 ## 👥 스터디 구성원
 
-| <img src="https://github.com/user-attachments/assets/2ac061ef-0a35-4eef-98f0-b0645c5e2b47" width="100"> | <img src="https://github.com/user-attachments/assets/cd6177ed-9a59-4e9a-9490-72ef8ae4e9e5" width="100"> | <img src="https://github.com/user-attachments/assets/5b3b7b32-33f8-422e-a6e0-38e836500b6c" width="100"> | <img src="https://github.com/member3.png" width="100"> |
+| <img src="https://github.com/user-attachments/assets/2ac061ef-0a35-4eef-98f0-b0645c5e2b47" width="100"> | <img src="https://github.com/user-attachments/assets/cd6177ed-9a59-4e9a-9490-72ef8ae4e9e5" width="100"> | <img src="https://github.com/user-attachments/assets/5b3b7b32-33f8-422e-a6e0-38e836500b6c" width="100"> | <img src="https://github.com/user-attachments/assets/70e558ad-65ac-4871-8683-e1d9757349c5" width="100"> |
 |:---:|:---:|:---:|:---:|
 | 서현준 | 이근희 | 조호연 | 윤주호 |
 | [@Hyeon0208](https://github.com/Hyeon0208) | [@Libienz](https://github.com/Libienz) | [@HoYeon](https://github.com/hoyeonyy) | [@YoonJuHo](https://github.com/Ho-Tea) |
