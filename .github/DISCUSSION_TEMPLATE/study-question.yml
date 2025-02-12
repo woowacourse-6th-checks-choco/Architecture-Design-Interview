@@ -3,7 +3,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        # 📝 토론 참여자 목록
+        ### 📝 토론 참여자 목록
         ```
         @Libienz 
         @Ho-Tea 
@@ -24,12 +24,12 @@ body:
   - type: markdown
     attributes:
       value: |
-        # 💭 꼬리 질문
+        ### ❓ 꼬리 질문 작성
 
   - type: textarea
     id: additional-questions
     attributes:
-      label: 꼬리 질문 목록
+      label: 💭 꼬리 질문 목록
       description: 추가로 궁금한 질문들을 작성해주세요.
       placeholder: |
         1. 첫 번째 질문
