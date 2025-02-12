@@ -1,12 +1,5 @@
 title: "질문"
-labels: ["question", "discussion"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        ## 참여자
-        답변할 사람들을 태그해주세요.
-
   - type: input
     id: participants
     attributes:
