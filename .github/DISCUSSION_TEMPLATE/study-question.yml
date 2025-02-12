@@ -3,6 +3,26 @@ body:
   - type: markdown
     attributes:
       value: |
+        ## 🏷️ 주제 선택
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: 토론 주제를 선택해주세요
+      description: 가장 적합한 주제를 선택해주세요
+      options:
+        - Database
+        - Infra
+        - Spring
+        - JPA
+        - Network
+        - OS
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
         ### 📝 토론 참여자 목록
         ```
         @Libienz 
