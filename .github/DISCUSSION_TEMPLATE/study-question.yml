@@ -1,13 +1,30 @@
 title: "질문"
 body:
+  - type: markdown
+    attributes:
+      value: |
+        # 📝 토론 참여자 목록
+        ```
+        @Libienz 
+        @Ho-Tea 
+        @hyeon0208 
+        @hoyeonyy 
+        ```
+        ---
+
   - type: input
     id: participants
     attributes:
-      label: 참여자
-      description: "@mention으로 참여자를 태그해주세요"
+      label: 😀 참여자
+      description: 위 목록에서 토론에 참여할 분들을 복사하여 태그해주세요
       placeholder: "@username1 @username2"
     validations:
       required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        # 💭 꼬리 질문
 
   - type: textarea
     id: additional-questions
