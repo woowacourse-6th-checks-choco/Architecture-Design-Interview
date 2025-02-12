@@ -1,0 +1,30 @@
+title: "꼬리 질문"
+labels: ["question", "discussion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 토론 참여자
+        토론에 참여할 사람들을 태그해주세요.
+
+  - type: input
+    id: participants
+    attributes:
+      label: 참여자
+      description: "@mention으로 참여자를 태그해주세요"
+      placeholder: "@username1 @username2"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-questions
+    attributes:
+      label: 꼬리 질문 목록
+      description: 추가로 궁금한 질문들을 작성해주세요.
+      placeholder: |
+        1. 첫 번째 질문
+        2. 두 번째 질문
+        3. 세 번째 질문
+        ...
+    validations:
+      required: true
